@@ -1,0 +1,7 @@
+title: Igor's Personal Webpage
+baseurl: ""
+url: "https://mordatch.github.io"
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
