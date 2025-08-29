@@ -4,4 +4,4 @@ url: "https://mordatch.github.io"
 
 markdown: kramdown
 highlighter: rouge
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect
