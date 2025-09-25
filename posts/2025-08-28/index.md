@@ -11,9 +11,9 @@ We created ~120 questions about 3 datasets and asked GPT-4.1 model to answer the
 As the dataset size grows, the model becomes less accurate when answering from raw dataset text:
 ![Plot showing accuracies over 3 datasets](accuracy-small.png)
 
-So (somewhat overgeneralizing) it does seem that currently AI benefits from data visualization?
+So (somewhat overgeneralizing) **it does seem that currently AI benefits from data visualization?**
 
-The model's accuracy on visualizations isn't perfect, but that's not the main point - all these questions are answerable from the images, and models will likely improve at chart reading over time. What's more interesting is how much performance drops with raw data.
+The model's accuracy on visualizations isn't perfect, but that's not the main point - all these questions are easily answerable from the images, and models will likely improve at chart reading over time. What's more interesting is how much performance drops with raw data.
 
 You can see all the questions and visualizations here:
 <iframe
