@@ -35,7 +35,7 @@ It seems the model cannot aggregate or pinpoint data in large contexts. Often th
 
 ### Some caveats
 * Again, the model did not use tools (particularly statistical tools) or other more involved agentic processes. It’s very likely the models would do better working from csv in this case. But I was interested in seeing if data interpretation can be a successful “atomic” operation for the models.
-* We only used GPT-4.1 model in this experiment - it’s possible Gemini/Claude/etc would give different results and I’m curious to try them, but GPT is a good representative of frontier AI models.
+* We only used GPT-4.1 model in this experiment - it’s possible other models would give different results and I’m curious to try them, but GPT is a good representative of frontier AI models.
 * We subsampled medium and large datasets to fit csv text into the model’s 150K token context - so medium and large datasets are actually clipped to the same token count, but I still suspect the large dataset has more diversity.
 * There are still too many specific questions - I would love to include more open-ended questions about data interpretation which better reflect how we work with data.
 * While we tried to obfuscate the datasets, the model did sometimes guess at the underlying dataset and make inferences based on that.
