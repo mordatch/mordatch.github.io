@@ -40,7 +40,7 @@ It seems the model cannot aggregate or pinpoint data in large contexts. Often th
 * While we tried to obfuscate the datasets, the model did sometimes guess at the underlying dataset and make inferences based on that.
 
 ### Acknowledgements and process
-This was a really fun informal project to do with Claude! Using Claude made the whole process much faster - it suggested datasets, questions, all the code, and helped with writing of this post. It’s been especially helpful to do the entire project in a single chat session, because Claude would have all the context on what has been done. If you’re interested in details of this process, you can view the complete transcript for this project [here[DRAFT]](https://draft-only-no-link-yet).
+This was a really fun informal project to do with Claude! Using Claude made the whole process much faster - it suggested datasets, questions, all the code, and helped with writing of this post. It’s been especially helpful to do the entire project in a single chat session, because Claude would have all the context on what has been done. If you’re interested in details of this process, you can view the [complete Claude transcript for this project](https://claude.ai/share/ca4da6ab-189a-43ae-8a5b-0de33013542a).
 
 ### Experiment details and data
 Claude suggested we use the following three datasets of increasing size:
