@@ -1,7 +1,11 @@
-title: Igor's Personal Webpage
+title: Igor Mordatch
 baseurl: ""
 url: "https://mordatch.github.io"
 
 markdown: kramdown
 highlighter: rouge
 theme: minima
+
+minima:
+  nav_pages:
+    - index.md
