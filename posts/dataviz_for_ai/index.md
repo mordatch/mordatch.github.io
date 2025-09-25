@@ -3,8 +3,9 @@ layout: post
 title: "[DRAFT] Does AI Need Data Visualization?"
 date: 2025-09-25
 ---
-Humans benefit greatly from visualizing data. Do AI models benefit from visualizations too, or can they just take in raw data and make sense of it? The latter would be ideal, since the data can speak for itself without being transformed into an intermediate visual format. This is an informal study with [Claude](https://claude.ai/) to answer this question.
 ![Intro image that shows raw data spreadsheet vs data visualization images](images/intro.jpg)
+
+Humans benefit greatly from visualizing data. Do AI models benefit from visualizations too, or can they just take in raw data and make sense of it? The latter would be ideal, since the data can speak for itself without being transformed into an intermediate visual format. This is an informal study with [Claude](https://claude.ai/) to answer this question.
 
 We created ~120 questions about 3 datasets and asked GPT-4.1 model to answer them either based on raw dataset as text (in csv format) or based on an appropriate visualization as an image.
 
