@@ -20,3 +20,8 @@ body, p, .post-content {
 code, pre {
   font-family: 'Courier New', monospace;
 }
+
+/* Hide the footer */
+.site-footer {
+  display: none;
+}
