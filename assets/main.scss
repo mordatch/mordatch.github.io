@@ -2,7 +2,15 @@
 ---
 
 @import "minima";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
 
+/* Test if CSS is loading */
 body {
-  background: yellow !important;
+  background: #fffacd !important; /* Yellow background to confirm it's working */
+  font-family: Charter, 'Bitstream Charter', Georgia, serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif !important;
+  color: blue !important; /* Blue headings to confirm */
 }
