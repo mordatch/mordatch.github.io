@@ -4,11 +4,13 @@
 @import "minima";
 
 /* Import Poppins from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 /* Headings - Poppins */
 h1, h2, h3, h4, h5, h6, .site-title {
   font-family: 'Poppins', sans-serif;
+  font-weight: 500;  /* 500 = medium, between normal and bold */
+  color: #1a0808;    /* Very dark with subtle red tint */  
 }
 
 /* Body text - Charter */
